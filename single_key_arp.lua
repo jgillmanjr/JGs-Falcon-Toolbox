@@ -1,0 +1,1 @@
+scale_menu = Menu(name="Scale", {"Major", "Minor"})
